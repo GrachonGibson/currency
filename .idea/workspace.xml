@@ -1,0 +1,199 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="917840d4-71a3-4982-ae9c-16fc1fa8ddd0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../EmployeeGroup/src/main/java/employee/SalariedEmployee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NumberArrayList/src/main/java/NumberArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PersonTestPractice/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PersonTestPractice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PersonTestPractice/src/main/java/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PersonTestPractice/src/test/java/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arraylistdemo/arrayListDemo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../arraylistdemo/src/main/java/arrayListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../composition/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../composition/src/main/java/PC.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/currency.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/currency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../currencyConverter/src/main/java/currencerConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grachon/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grachon/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grachon/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grachon/src/main/java/ReviewSymbols.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../grachon/src/main/java/Symbols.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hashMapProject/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hashMapProject/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../hashMapProject/src/main/java/hashMapPractice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newHomework/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newHomework/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../newHomework/src/main/java/composition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reviewTest/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reviewTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../reviewTest/src/main/java/Symbols.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testCasePractice/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testCasePractice/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testCasePractice/src/test/java/CalcTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testCasePractice/src/test/java/CalcTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testCasePractice/src/test/java/PersonTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testCasePractice/src/test/java/PersonTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testCasePractice/src/test/java/PersonTest3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testCasePractice/src/test/main/java/People/People.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testCasePractice/src/test/main/java/calculator/Calc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testCasePractice/src/test/main/java/person/people.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeeGroup/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeeGroup/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeeGroup/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeeGroup/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeeGroup/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../EmployeeGroup/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EmployeeGroup/EmployeeGroup.iml" beforeDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/currency.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="153">
+              <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/currency.java" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="84" />
+    <option name="width" value="1281" />
+    <option name="height" value="702" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="currency" type="b2602c69:ProjectViewProjectNode" />
+              <item name="currency" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="currency" type="b2602c69:ProjectViewProjectNode" />
+              <item name="currency" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="currency" type="b2602c69:ProjectViewProjectNode" />
+              <item name="currency" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556636078869" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="917840d4-71a3-4982-ae9c-16fc1fa8ddd0" name="Default Changelist" comment="" />
+      <created>1556631994986</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1556631994986</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24939272" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/currency.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
